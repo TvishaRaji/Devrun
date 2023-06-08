@@ -1,0 +1,205 @@
+{
+  "Users" :[
+  {
+    "Key": 0,
+    "title": "Sammy Keyes and the Art of Deception",
+    "authors": "Wendelin Van Draanen",
+    "language": "en",
+    "categories": "Juvenile Fiction",
+    "averageRating": 4,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "Yearling",
+    "publishedDate": "2009",
+    "pageCount": 304
+  },
+  {
+    "Key": 1,
+    "title": "Inward Journey",
+    "authors": "None",
+    "language": "en",
+    "categories": "Medical",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "Open Court Publishing Company",
+    "publishedDate": "1983",
+    "pageCount": 133
+  },
+  {
+    "Key": 2,
+    "title": "The Boston Directory ...",
+    "authors": "None",
+    "language": "en",
+    "categories": "Boston",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "",
+    "publishedDate": "1865",
+    "pageCount": null
+  },
+  {
+    "Key": 3,
+    "title": "Bring Your Own Devices (BYOD) Survival Guide",
+    "authors": "Jessica Keyes",
+    "language": "en",
+    "categories": "Business & Economics",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "CRC Press",
+    "publishedDate": "2016",
+    "pageCount": 451
+  },
+  {
+    "Key": 4,
+    "title": "Enterprise 2.0",
+    "authors": "Jessica Keyes",
+    "language": "en",
+    "categories": "Business & Economics",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "CRC Press",
+    "publishedDate": "2016",
+    "pageCount": 425
+  },
+  {
+    "Key": 5,
+    "title": "The CIO's Guide to Oracle Products and Solutions",
+    "authors": "Jessica Keyes",
+    "language": "en",
+    "categories": "Business & Economics",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "CRC Press",
+    "publishedDate": "2014",
+    "pageCount": 288
+  },
+  {
+    "Key": 6,
+    "title": "Implementing the IT Balanced Scorecard",
+    "authors": "Jessica Keyes",
+    "language": "en",
+    "categories": "Computers",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "CRC Press",
+    "publishedDate": "2016",
+    "pageCount": 528
+  },
+  {
+    "Key": 7,
+    "title": "Implementing the Project Management Balanced Scorecard",
+    "authors": "Jessica Keyes",
+    "language": "en",
+    "categories": "Business & Economics",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "CRC Press",
+    "publishedDate": "2010",
+    "pageCount": 447
+  },
+  {
+    "Key": 8,
+    "title": "Social Software Engineering",
+    "authors": "Jessica Keyes",
+    "language": "en",
+    "categories": "Computers",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "CRC Press",
+    "publishedDate": "2016",
+    "pageCount": 481
+  },
+  {
+    "Key": 9,
+    "title": "Classes on Modern Poets and the Art of Poetry",
+    "authors": "James Dickey', 'Donald J. Greiner",
+    "language": "en",
+    "categories": "Biography & Autobiography",
+    "averageRating": 4.5,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "Univ of South Carolina Press",
+    "publishedDate": "01",
+    "pageCount": 310
+  },
+  {
+    "Key": 10,
+    "title": "Population Health Science",
+    "authors": "Katherine M. Keyes', 'Sandro Galea', 'Robert a Knox Professor and Dean Sandro Galea, MD",
+    "language": "en",
+    "categories": "",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "Oxford University Press",
+    "publishedDate": "2016",
+    "pageCount": 224
+  },
+  {
+    "Key": 11,
+    "title": "Retelling the Nicaraguan Revolution as a Dionysian Ritual",
+    "authors": "Martina Handler",
+    "language": "en",
+    "categories": "History",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "LIT Verlag Münster",
+    "publishedDate": "2010",
+    "pageCount": 139
+  },
+  {
+    "Key": 12,
+    "title": "Flowers for Algernon",
+    "authors": "BookCaps Study Guides Staff",
+    "language": "en",
+    "categories": "Biography & Autobiography",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "BookCaps Study Guides",
+    "publishedDate": "2011",
+    "pageCount": null
+  },
+  {
+    "Key": 13,
+    "title": "Handbook of Applied Developmental Science",
+    "authors": "Richard M. Lerner', 'Francine Jacobs', 'Donald Wertlieb",
+    "language": "en",
+    "categories": "Psychology",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "SAGE",
+    "publishedDate": "2003",
+    "pageCount": 2296
+  },
+  {
+    "Key": 14,
+    "title": "Wade Keyes' introductory lecture to the Montgomery Law School",
+    "authors": "David I. Durham', 'Wade Keyes', 'Paul M. Pruitt",
+    "language": "en",
+    "categories": "Law",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "",
+    "publishedDate": "2001",
+    "pageCount": 45
+  },
+  {
+    "Key": 15,
+    "title": "The Journal of the Iowa Academy of Science",
+    "authors": "",
+    "language": "en",
+    "categories": "Science",
+    "averageRating": null,
+    "maturityRating": "NOT_MATURE",
+    "publisher": "",
+    "publishedDate": "1989",
+    "pageCount": null
+  }
+
+],
+
+"Profile" : [
+  {
+
+  }
+]
+   
+
+}
