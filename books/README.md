@@ -41,7 +41,7 @@ npm install
 4. Install the baclend dependencies:
 pip3 install flask, request
 
-5.Start the JSON Server:
+5. Start the JSON Server:
 cd server
 json-server --watch db.json
 
