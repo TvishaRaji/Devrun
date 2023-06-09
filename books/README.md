@@ -1,7 +1,10 @@
 # Library Management System
-# Library Management System
 
 The Library Management System is a web application built with Angular, Flask, JSON Server, and SQLite. It allows users to manage and organize library resources, such as books, authors, categories, and user accounts. The system also integrates with the Google Books API for retrieving book information and utilizes Power BI for data visualization.
+
+Demo Link:
+
+https://www.loom.com/share/15487672c28c45bc9851e0090a588752
 
 ## Features
 
