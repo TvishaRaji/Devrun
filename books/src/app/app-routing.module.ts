@@ -10,6 +10,7 @@ import { ProfileComponent } from './profile/profile.component';
 import { QueryComponent } from './query/query.component';
 import { ProductComponent } from './product/product.component';
 import { HomeComponent } from './home/home.component';
+import { DocumentComponent } from './document/document.component';
 
 const routes: Routes = [
   {
@@ -55,6 +56,10 @@ const routes: Routes = [
   {
     path:"product/:productId",
     component:ProductComponent
+  },
+  {
+    path:"docs",
+    component:DocumentComponent
   }
   
   

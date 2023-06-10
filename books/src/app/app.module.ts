@@ -26,6 +26,7 @@ import { ProfileComponent } from './profile/profile.component';
 import { QueryComponent } from './query/query.component';
 import { ProductComponent } from './product/product.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
+import { DocumentComponent } from './document/document.component';
 
 
 
@@ -43,7 +44,8 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
     CategorysearchComponent,
     ProfileComponent,
     QueryComponent,
-    ProductComponent
+    ProductComponent,
+    DocumentComponent
     
   ],
   imports: [

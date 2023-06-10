@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Library Management System</title>
+  
+</head>
+<body>
+  <header>
+    <h1>Library Management System</h1>
+    <p>The Library Management System is a web application built with Angular, Flask, JSON Server, and SQLite. It provides a comprehensive set of features for managing library resources, including books, authors, categories, and user accounts. The system integrates with the Google Books API for book search functionality and offers data visualization using Power BI.</p>
+  </header>
+
+  <section id="pages">
+    <h2>Pages</h2>
+    <ul>
+      <li>Home: The landing page of the application.</li>
+      <li>Landing: A page for searching books using the Google Books API.</li>
+      <li>Google API Books: Displays search results from the Google Books API.</li>
+      <li>Category: Allows browsing and filtering books by category.</li>
+      <li>Product: Shows detailed information about a specific book.</li>
+      <li>Profile: Displays user profile and favorite books.</li>
+      <li>Login and Signup: Pages for user authentication and registration.</li>
+      <li>Docs: Documentation and guides for using the application.</li>
+    </ul>
+  </section>
+
+  <section id="user-flow">
+    <h2>User Flow</h2>
+    <ol>
+      <li>Sign up and log in to the website.</li>
+      <li>Navigate to the Docs page to access documentation and guides.</li>
+      <li>Go to the Category tab to browse books by category.</li>
+      <li>Utilize the search bar to find specific books and sort the results.</li>
+      <li>Click on a book to view its details on the Product page.</li>
+      <li>Click on additional links to navigate to related sections or pages.</li>
+      <li>Find the paginator in the footer for easy navigation through book listings.</li>
+      <li>Explore the footer for a link to the Power BI app for data visualization.</li>
+    </ol>
+  </section>
+
+  <section id="user-flow-steps">
+    <h2>User Flow Steps</h2>
+    <ol>
+      <li><a routerLink="/l1">Landing</a> page</li>
+      <li><a routerLink="/signup">Signup</a> page</li>
+      <li><a routerLink="/login">Login</a> page</li>
+      <li><a routerLink="/home">Home</a> page</li>
+      <li><a routerLink="/docs">Docs</a> page (already mentioned)</li>
+      <li><a routerLink="/landing">Google API Books</a> search page</li>
+      <li><a routerLink="/category">Category</a> page</li>
+      <li><a routerLink="/product/:query">Product</a> page (replace :query with the desired book query)</li>
+      <li><a routerLink="/profile">Profile</a> page</li>
+    </ol>
+  </section>
+</body>
+</html>
